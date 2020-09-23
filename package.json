@@ -1,5 +1,5 @@
 {
-  "name": "react-native-material-kit",
+  "name": "@geniusalex/react-native-material-kit",
   "version": "0.6.0-beta.2",
   "description": "Bringing Material Design to React Native",
   "main": "lib/index.js",
