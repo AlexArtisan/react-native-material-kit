@@ -25,7 +25,7 @@
   "bugs": "https://github.com/xinthink/react-native-material-kit/issues",
   "repository": {
     "type": "git",
-    "url": "git://github.com/xinthink/react-native-material-kit.git"
+    "url": "git://github.com/AlexArtisan/react-native-material-kit.git"
   },
   "devDependencies": {
     "@microsoft/api-documenter": "^7.3.11",
